@@ -1,5 +1,6 @@
 # alfred-args-app
-Alfred's workflow for running Applications with arguments
+Alfred's workflow for running Applications with arguments<br />
+https://www.alfredapp.com/
 
 Some applications can be executed with additional parameters, so this workflow allows this.<br />
 First we are asked to select Application, then arguments which should be used.
