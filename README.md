@@ -16,7 +16,7 @@ open <APPLICAITON> --args <ARGUMENTS>
 
 ![Screenshot](screenshot1.png)
 
-**\<application\> \<ARGUMENTS\>** (then type arguments which should be used)
+**\<ARGUMENTS\>** (then type arguments which should be used)
 
 ![Screenshot](screenshot2.png)
 
